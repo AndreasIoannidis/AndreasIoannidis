@@ -1,19 +1,25 @@
 # Hi there, I'm Andreas Ioannidis 👋
 
-### Computer Engineer | Aspiring DevOps, Cloud & AI Engineer
-I am a **Computer Engineering & Informatics (CEID)** graduate passionate about building scalable backend systems, automating infrastructures, and integrating AI into modern applications. I thrive at the intersection of development and operations, focused on clean architecture and efficient automation.
+### Computer Engineer | Aspiring DevOps, Cloud & Software Engineer
+I am a **Computer Engineering & Informatics (CEID)** graduate passionate about building scalable infrastructure, automating software pipelines, and developing robust applications. I thrive on connecting development with production-ready operations (DevOps) and exploring Cloud Native architectures.
 
 ---
 
-### 🚀 Key Projects & Research
+### 🚀 Featured Projects
 
-#### [Autonomous AI Agent Arena](https://github.com/AndreasIoannidis/AI-Combat-Arena-Simulation)
-An advanced simulation system designed to test and evaluate autonomous AI agent decision-making algorithms in real-time environments.
-* **Core Technology:** Built on custom Behavior Trees and Finite State Machines (FSM) for complex, dynamic pathfinding and decision logic.
-* **Key Focus:** Algorithmic optimization, navigation meshes, dynamic threat evaluation, and real-time state synchronization.
-* **Engineering Takeaway:** Deep experience in system state management and highly optimized execution loops.
+#### 1. [5G ML Pipeline on Kubernetes](https://github.com/AndreasIoannidis/5g-ml-pipeline-k8s) *(Άλλαξε το link με το πραγματικό σου)*
+An end-to-end Machine Learning pipeline orchestrated on a Kubernetes (K8s) cluster, tailored for 5G network data/use cases.
+* **Core Stack:** Kubernetes, Docker, Container Orchestration, ML Pipelines.
+* **Key Focus:** Deploying, scaling, and managing containerized ML workloads, ensuring high availability and seamless data flow in a simulated 5G environment.
+* **DevOps Takeaway:** Hands-on experience with container networking, microservices, cluster management, and automation.
 
-> 📂 [Explore the Repository for Architecture & Code Details](https://github.com/AndreasIoannidis/AI-Combat-Arena-Simulation)
+#### 2. [Software Engineering Mobile Application](https://github.com/AndreasIoannidis/software-engineering-mobile-app) *(Άλλαξε το link με το πραγματικό σου)*
+A robust mobile application developed with a strong emphasis on Software Engineering principles and lifecycle standards.
+* **Core Stack:** Android Studio, Java/Kotlin, UML Modeling, Robustness Analysis.
+* **Key Focus:** Followed a strict software design process including complete UML diagramming, use-case analysis, and robustness validation to ensure clean architecture and zero-fault tolerance.
+* **Takeaway:** Deep understanding of software design patterns, architectural layers (MVVM/MVC), and enterprise-grade documentation.
+
+
 
 ---
 
@@ -21,16 +27,15 @@ An advanced simulation system designed to test and evaluate autonomous AI agent 
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **DevOps & Infrastructure** | Git, GitHub Actions, Docker, Linux, GNS3 (Network Simulation) |
-| **Artificial Intelligence** | AI Agent Architectures, Behavior Trees, Algorithmic Decision Models |
-| **Backend & App Dev** | C++, Python, SQL, C# |
-| **Cloud & Systems** | Virtualization, System Design, Networking Protocols |
+| **DevOps & Cloud** | Kubernetes (K8s), Docker, Git, Linux, Infrastructure & Network Simulation |
+| **Software & Mobile Dev** | Android Studio, OOP (C++, Java/Kotlin), C#, Software Architecture (UML) |
+| **Data & AI** | Machine Learning Pipelines, AI Decision Architectures, Python, SQL |
 
 ---
 
-### 🌱 Current Focus & Continuous Learning
-* **Cloud & DevOps:** Deepening my hands-on experience with Kubernetes (K8s) and Infrastructure as Code (IaC) tools like Terraform.
-* **AI & Engineering:** Exploring LLM integrations, retrieval-augmented generation (RAG), and deploying ML models as scalable APIs.
+### 🌱 Continuous Learning & Goals
+* **Infrastructure as Code:** Masterizing Terraform and Helm Charts for Kubernetes deployments.
+* **CI/CD:** Designing fully automated GitHub Actions / GitLab CI pipelines for automated testing and deployment.
 
 ---
 
