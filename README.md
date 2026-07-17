@@ -7,13 +7,13 @@ I am a **Computer Engineering & Informatics (CEID)** graduate passionate about b
 
 ### 🚀 Featured Projects
 
-#### 1. [5G ML Pipeline on Kubernetes](https://github.com/AndreasIoannidis/5g-ml-pipeline-k8s) *(Άλλαξε το link με το πραγματικό σου)*
+#### 1. [5G ML Pipeline on Kubernetes](https://github.com/AndreasIoannidis/5G_ML_PIPELINE_K8s) 
 An end-to-end Machine Learning pipeline orchestrated on a Kubernetes (K8s) cluster, tailored for 5G network data/use cases.
 * **Core Stack:** Kubernetes, Docker, Container Orchestration, ML Pipelines.
 * **Key Focus:** Deploying, scaling, and managing containerized ML workloads, ensuring high availability and seamless data flow in a simulated 5G environment.
 * **DevOps Takeaway:** Hands-on experience with container networking, microservices, cluster management, and automation.
 
-#### 2. [Software Engineering Mobile Application](https://github.com/AndreasIoannidis/software-engineering-mobile-app) *(Άλλαξε το link με το πραγματικό σου)*
+#### 2. [Software Engineering Mobile Application](https://github.com/AndreasIoannidis/SoftwareEngineering) 
 A robust mobile application developed with a strong emphasis on Software Engineering principles and lifecycle standards.
 * **Core Stack:** Android Studio, Java/Kotlin, UML Modeling, Robustness Analysis.
 * **Key Focus:** Followed a strict software design process including complete UML diagramming, use-case analysis, and robustness validation to ensure clean architecture and zero-fault tolerance.
